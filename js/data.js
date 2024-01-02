@@ -1,0 +1,42 @@
+const goods = [
+  {
+    pic: "drink1.jpg",
+    title: "Orange Juice",
+    desc: "Freshly squeezed orange juice",
+    sellNumber: 200,
+    rate: 95,
+    price: 2.5,
+  },
+  {
+    pic: "drink2.jpg",
+    title: "Iced Coffee",
+    desc: "Chilled coffee with milk and a hint of vanilla",
+    sellNumber: 180,
+    rate: 90,
+    price: 3.0,
+  },
+  {
+    pic: "drink3.jpg",
+    title: "Green Tea",
+    desc: "Organic green tea with a delicate and refreshing taste",
+    sellNumber: 150,
+    rate: 85,
+    price: 2.0,
+  },
+  {
+    pic: "drink4.jpg",
+    title: "Strawberry Smoothie",
+    desc: "Blended drink made with fresh strawberries and yogurt",
+    sellNumber: 220,
+    rate: 97,
+    price: 3.5,
+  },
+  {
+    pic: "drink5.jpg",
+    title: "Lemonade",
+    desc: "Homemade lemonade with a perfect balance of sweet and sour",
+    sellNumber: 240,
+    rate: 92,
+    price: 2.8,
+  },
+];
