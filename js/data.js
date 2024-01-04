@@ -1,6 +1,6 @@
 const goods = [
   {
-    pic: "drink1.jpg",
+    pic: "orange-juice.png",
     title: "Orange Juice",
     desc: "Freshly squeezed orange juice",
     sellNumber: 200,
@@ -8,7 +8,7 @@ const goods = [
     price: 2.5,
   },
   {
-    pic: "drink2.jpg",
+    pic: "iced-coffee.png",
     title: "Iced Coffee",
     desc: "Chilled coffee with milk and a hint of vanilla",
     sellNumber: 180,
@@ -16,7 +16,7 @@ const goods = [
     price: 3.0,
   },
   {
-    pic: "drink3.jpg",
+    pic: "green-tea.png",
     title: "Green Tea",
     desc: "Organic green tea with a delicate and refreshing taste",
     sellNumber: 150,
@@ -24,7 +24,7 @@ const goods = [
     price: 2.0,
   },
   {
-    pic: "drink4.jpg",
+    pic: "strawberry-smoothie.png",
     title: "Strawberry Smoothie",
     desc: "Blended drink made with fresh strawberries and yogurt",
     sellNumber: 220,
@@ -32,7 +32,7 @@ const goods = [
     price: 3.5,
   },
   {
-    pic: "drink5.jpg",
+    pic: "lemonade.png",
     title: "Lemonade",
     desc: "Homemade lemonade with a perfect balance of sweet and sour",
     sellNumber: 240,
