@@ -7,6 +7,11 @@ The interface also provides a seamless and intuitive experience for users to man
 In summary, a simple shopping cart interface is a fundamental component of an eCommerce platform, providing users with the flexibility and control to manage their selected items and complete their purchases efficiently.
 
 # technology stack
+
 - HTML
 - CSS
 - JavaScript
+
+# open source image
+
+- Unsplash - https://unsplash.com/
