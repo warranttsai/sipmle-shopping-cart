@@ -1,0 +1,59 @@
+.goods-list {
+  flex-grow: 1;
+  overflow-y: scroll;
+}
+.goods-item {
+  border-bottom: 1rem solid #f8f8f8;
+  padding: 30rem 20rem;
+  display: flex;
+}
+.goods-pic {
+  height: 20px;
+  width: 32px;
+}
+
+.goods-info {
+}
+
+.goods-desc {
+}
+
+.goods-sell {
+}
+
+.goods-confirm {
+}
+
+.goods-price {
+}
+
+.goods-price-unit {
+}
+
+.goods-btns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.goods-btns span {
+  margin: 0 15rem;
+  display: none;
+}
+
+/* Icon */
+.goods-btns.iconfont {
+  width: 40rem;
+  height: 40rem;
+  background: #4a90e1;
+  color: #fff;
+  border-radius: 50%;
+  font-size: 23rem;
+}
+.i-jianhao {
+}
+.i-jiajianzujianjiahao {
+}
+.i-gouwuchefill:before {
+  content: "\e73c";
+}
